@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+917012984396']
-global.premium = ['+917012984396']
-global.ownernomer = '+917012984396'
-global.ownername = '𝐒𝐏𝐀𝐑𝐊𝐘 𝐒𝐈𝐑💝'
-global.botname = '𝐒 𝐏 𝐀 𝐑 𝐊 𝐘'
-global.footer = '©𝐒𝐏𝐀𝐑𝐊𝐘 𝐒𝐈𝐑'
+global.owner = ['+918075123700']
+global.premium = ['+918075123700']
+global.ownernomer = '+918075123700'
+global.ownername = '🇸 🇦 🇳 🇯 🇺 💝'
+global.botname = '🅢︎🅐︎🅝︎🅙︎🅤︎'
+global.footer = '©𝕊𝔸ℕ𝕁𝕌'
 global.ig = 'https://i.imgur.com/fs2Hl4q.jpeg'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://instagram.com/aswin_sparky.exe'
-global.myweb = 'https://youtube.com/c/SPARKYGAMING777'
-global.packname = 'ASWIN'
-global.author = 'ASWIN SPARKY'
+global.sc = 'https://instagram.com/sunjeev_s__'
+global.myweb = 'https://youtube.com/channel/UCfCzgWw8rB9YMVFEbUxZv3g'
+global.packname = 'SANJU'
+global.author = 'SANJU SIR:
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
